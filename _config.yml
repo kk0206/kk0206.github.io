@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "김재완"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "나는 행복한 사람"
   location         : "대한민국,부산"
   email            : ericjaekim@gmail.com
